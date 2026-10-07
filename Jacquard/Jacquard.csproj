@@ -4,8 +4,11 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net48</TargetFramework>
     <UseWPF>true</UseWPF>
-    <UseWindowsForms>true</UseWindowsForms>
     <LangVersion>latest</LangVersion>
+    <Version>1.0.0</Version>
+    <Product>Jacquard</Product>
+    <Description>Turns an image into a jacquard pattern.</Description>
+    <Copyright>Copyright (c) 2020 Mohammad Diab</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
