@@ -38,3 +38,7 @@ It targets .NET Framework 4.8, which is part of Windows 10 and 11. The first ver
 ## License
 
 [Apache 2.0](LICENSE)
+
+## Related
+
+[Ratair](https://github.com/Mohammad-Diab/Ratair): draws textile weave structures (plain, rib, twill, satin…) on a grid you can edit and paste into Excel.
