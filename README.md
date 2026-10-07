@@ -37,4 +37,4 @@ It targets .NET Framework 4.8, which is part of Windows 10 and 11. The first ver
 
 ## License
 
-[MIT](LICENSE)
+[Apache 2.0](LICENSE)
